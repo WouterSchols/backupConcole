@@ -3,25 +3,25 @@
   <Profiles />
   <Settings>
     <Setting Name="SourcePath" Type="System.String" Scope="User">
-      <Value Profile="(Default)">D:\Computer Science 1\</Value>
+      <Value Profile="(Default)" />
     </Setting>
     <Setting Name="BackUpPath" Type="System.String" Scope="User">
-      <Value Profile="(Default)">/media/usb/WouterBackups/</Value>
+      <Value Profile="(Default)" />
     </Setting>
     <Setting Name="BackUpUserName" Type="System.String" Scope="User">
-      <Value Profile="(Default)">backup_client</Value>
+      <Value Profile="(Default)" />
     </Setting>
     <Setting Name="BackUpPassword" Type="System.String" Scope="User">
-      <Value Profile="(Default)">A.Wz)Ey`{E$QR6jf</Value>
+      <Value Profile="(Default)" />
     </Setting>
     <Setting Name="BackupHostName" Type="System.String" Scope="User">
-      <Value Profile="(Default)">84.83.178.144</Value>
+      <Value Profile="(Default)" />
     </Setting>
     <Setting Name="BackupHostKeyFingerprint" Type="System.String" Scope="User">
-      <Value Profile="(Default)">ssh-ed25519 256 b5:f6:b1:33:3e:63:9a:e6:5a:d1:df:2f:a5:b8:65:c3</Value>
+      <Value Profile="(Default)" />
     </Setting>
     <Setting Name="RunPath" Type="System.String" Scope="User">
-      <Value Profile="(Default)">D:\programs</Value>
+      <Value Profile="(Default)" />
     </Setting>
   </Settings>
 </SettingsFile>

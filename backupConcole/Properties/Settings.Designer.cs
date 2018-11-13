@@ -25,7 +25,7 @@ namespace backupConcole.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("D:\\Computer Science 1\\")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string SourcePath {
             get {
                 return ((string)(this["SourcePath"]));
@@ -37,7 +37,7 @@ namespace backupConcole.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("/media/usb/WouterBackups/")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string BackUpPath {
             get {
                 return ((string)(this["BackUpPath"]));
@@ -49,7 +49,7 @@ namespace backupConcole.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("backup_client")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string BackUpUserName {
             get {
                 return ((string)(this["BackUpUserName"]));
@@ -61,7 +61,7 @@ namespace backupConcole.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("A.Wz)Ey`{E$QR6jf")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string BackUpPassword {
             get {
                 return ((string)(this["BackUpPassword"]));
@@ -73,7 +73,7 @@ namespace backupConcole.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("84.83.178.144")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string BackupHostName {
             get {
                 return ((string)(this["BackupHostName"]));
@@ -85,7 +85,7 @@ namespace backupConcole.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("ssh-ed25519 256 b5:f6:b1:33:3e:63:9a:e6:5a:d1:df:2f:a5:b8:65:c3")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string BackupHostKeyFingerprint {
             get {
                 return ((string)(this["BackupHostKeyFingerprint"]));
@@ -97,7 +97,7 @@ namespace backupConcole.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("D:\\programs")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string RunPath {
             get {
                 return ((string)(this["RunPath"]));
