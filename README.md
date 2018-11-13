@@ -1,7 +1,9 @@
 # BackupController
 
+This code is intended to run in the background of a windows machine from time to time. It maintains a file structure on an FTP server and updates the files using and SFTP connection. 
+
 Before using the code fill in the config file.
-Examples can be found below
+The documentation on the fields can be found below.
 
 SourcePath | = All folders to be updated comma seperated | C:\folder1, C:\folder2
 
