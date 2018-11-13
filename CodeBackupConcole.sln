@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backupConcole", "backupConcole\backupConcole.csproj", "{64C41A77-A3B9-4789-8A8E-7F6A901726D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBackupConcole", "backupConcole\CodeBackupConcole.csproj", "{64C41A77-A3B9-4789-8A8E-7F6A901726D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
